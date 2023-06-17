@@ -1,13 +1,4 @@
-# chandrima_DataStructureAssignmentSolution
+# Skyscraper_layout
+
+This project aims to give a construction layout of a skyscraper based on the floor area constructed on a particular day. In the second project, we are changing the complete binary tree to a skewed tree based on the requirement
  
-![alt text](https://github.com/chandrima0503/chandrima_DataStructureAssignmentSolution/blob/main/Screenshot%202022-07-28%20at%209.19.56%20PM.png)
-
-![alt text](https://github.com/chandrima0503/chandrima_DataStructureAssignmentSolution/blob/main/Screenshot%202022-07-28%20at%209.20.18%20PM.png)
-
-![alt text](https://github.com/chandrima0503/chandrima_DataStructureAssignmentSolution/blob/main/Screenshot%202022-07-28%20at%209.20.30%20PM.png)
-
-![alt text](https://github.com/chandrima0503/chandrima_DataStructureAssignmentSolution/blob/main/Screenshot%202022-07-28%20at%209.20.42%20PM.png)
-
-![alt text](https://github.com/chandrima0503/chandrima_DataStructureAssignmentSolution/blob/main/Screenshot%202022-07-28%20at%209.20.48%20PM.png)
-
-![alt text](https://github.com/chandrima0503/chandrima_DataStructureAssignmentSolution/blob/main/Screenshot%202022-07-28%20at%209.21.04%20PM.png)
